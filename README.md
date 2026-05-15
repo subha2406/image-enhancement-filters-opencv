@@ -1,4 +1,4 @@
-# Image Smoothing and Sharpening Using OpenCV
+ # Image Smoothing and Sharpening Using OpenCV
 
 ## Aim
 
