@@ -169,19 +169,19 @@ plt.show()
 - Averaging filter produces blurred image
 
   
-  <img width="717" height="253" alt="download" src="https://github.com/user-attachments/assets/a61ed33f-ba8e-4db0-8bc0-42a648f8090d" />
+<img width="741" height="353" alt="image" src="https://github.com/user-attachments/assets/98b5c232-e5b0-4061-8e6c-dac5656a6e55" />
 
 - Weighted averaging provides smoother result with less distortion
 
-  <img width="531" height="192" alt="download" src="https://github.com/user-attachments/assets/4c18a7ff-28b3-4802-b3fa-cf1020fbf284" />
+<img width="659" height="318" alt="image" src="https://github.com/user-attachments/assets/79071562-1e4e-4f70-8253-097742955ee2" />
 
 - Gaussian filter preserves edges better while reducing noise
 
-  <img width="515" height="192" alt="download" src="https://github.com/user-attachments/assets/4a168f95-cf57-4a65-bab1-596bada3994d" />
+<img width="640" height="319" alt="image" src="https://github.com/user-attachments/assets/6cfac6e0-77a3-4f91-b3d2-bf92a8bb3870" />
 
 - Median filter removes salt-and-pepper noise effectively
 
-  <img width="717" height="253" alt="download" src="https://github.com/user-attachments/assets/6ebe6e40-5cc7-4a90-afd5-23f1865ceebf" />
+<img width="747" height="357" alt="image" src="https://github.com/user-attachments/assets/d5b0b8f2-e95a-44a9-8882-14b7133ab853" />
 
 
 ###  Sharpening Filters
@@ -189,12 +189,12 @@ plt.show()
 - Laplacian kernel enhances edges and fine details
 
 
-  <img width="515" height="192" alt="download" src="https://github.com/user-attachments/assets/d0673db7-74c7-43b8-b2b6-3bfca127e7e2" />
+<img width="642" height="322" alt="image" src="https://github.com/user-attachments/assets/eacf5d43-0c56-4595-934a-d9c539d78373" />
   
 
 - Laplacian operator detects edges clearly in grayscale
 
-  <img width="515" height="192" alt="download" src="https://github.com/user-attachments/assets/59fb0f15-a814-421f-b5bf-583b474cc04a" />
+<img width="644" height="325" alt="image" src="https://github.com/user-attachments/assets/d77bb80c-1d29-4697-88c8-53d51f026c4c" />
 
 
 ---
