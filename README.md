@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** AMIRTHA VARSHINI
-- **Register Name:** 212224230017
+- **Name:** SUBHA SHREE U
+- **Register Name:** 2305002025
 
 ## Program
 ```python
